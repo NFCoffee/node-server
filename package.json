@@ -1,0 +1,17 @@
+{
+  "name": "nfcoffee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "truffle": "^5.11.5",
+    "web3": "^4.8.0"
+  }
+}
